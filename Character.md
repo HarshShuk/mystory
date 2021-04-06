@@ -1,3 +1,2 @@
 monkey
-crocodile
-female crocodile
+Loin
